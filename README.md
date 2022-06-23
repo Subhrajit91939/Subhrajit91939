@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently a undergraduate student at the Jadavpur University, Kolkata.
+- 🔭 I’m a DS and ML enthusiast and work on projects related to the same.
+- 📫 How to reach me: subhrajitguchait20@gmail.com
