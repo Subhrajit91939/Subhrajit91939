@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi! I'm Subhrajit.</h2>
+<h1>Hi! I'm Subhrajit 👋 </h1>
 
 <!--
 **Subhrajit91939/Subhrajit91939** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2>A Little About Me:</h2>
 
 - 🌱 I’m currently learning NLP.
 - 🔭 I’m someone who loves experimenting with data.
