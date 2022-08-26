@@ -21,5 +21,6 @@ Here are some ideas to get you started:
 - 🔭 I’m someone who loves experimenting with data.
 - 🎯 I am currently looking for opportunities in Business Analytics and Data Analytics.
 - ⚡ Skills & Knowledge: Python, Python(OOPS) Basics, Microsoft Excel, RDBMS, MySQL, Tableau, PowerBI(Basics).
+- Experienced with json files, .xml file parsing.
 - I have some experience with Web Scraping using BeautifulSoup4, Selenium.and have also worked on multiple EDA and Basic ETL Pipeline projects from scratch.
 - 📫 If you are looking for an experimentalist and a generalist on your team you can reach out to me: subhrajitguchait20@gmail.com
