@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Hadoop, Big Data and Data Engineering related technologies.
 - 🔭 I’m someone who loves experimenting with data.
-- 🎯 I am currently looking for opportunities in Business Analytics and Data Analytics domain.
+- 🎯 I am currently looking for opportunities in Business Analytics and Data Analytics.
 - 📫 If you are looking for an experimentalist and a generalist on your team you can reach out to me: subhrajitguchait20@gmail.com
