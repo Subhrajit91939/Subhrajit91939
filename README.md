@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h2>A Little About Me:</h2>
 
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently learning Hadoop, Big Data and Data Engineering related technologies.
 - 🔭 I’m someone who loves experimenting with data.
-- 🎯 I am currently looking for opportunities in Business Anlytics and Data Analytics domain.
+- 🎯 I am currently looking for opportunities in Business Analytics and Data Analytics domain.
 - 📫 If you are looking for an experimentalist and a generalist on your team you can reach out to me: subhrajitguchait20@gmail.com
