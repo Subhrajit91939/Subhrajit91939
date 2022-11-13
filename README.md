@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Hadoop, Big Data and Data Engineering related technologies.
 - 🔭 I’m someone who loves experimenting with data.
-- 🎯 I am currently looking for opportunities in Business Analytics and Data Analytics.
+- 🎯 I am currently looking for Internship opportunities in Business Analytics and Data Analytics.
 - ⚡ Skills & Knowledge: Python, Python(OOPS) Basics, Microsoft Excel, RDBMS, MySQL, Tableau, PowerBI(Basics).
 - Experienced with json files, .xml file parsing.
 - I have some experience with Web Scraping using BeautifulSoup4, Selenium.and have also worked on multiple EDA and Basic ETL Pipeline projects from scratch.
