@@ -1,4 +1,4 @@
-![](Linkedin_cover.png)
+
 
 <!--
 **Subhrajit91939/Subhrajit91939** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,10 +17,8 @@ Here are some ideas to get you started:
 
 <h2>A Little About Me:</h2>
 
-- 🌱 I’m currently learning Hadoop, Big Data and Data Engineering related technologies.
-- 🔭 I’m someone who loves experimenting with data.
-- 🎯 I am currently looking for Internship opportunities in Business Analytics and Data Analytics.
-- ⚡ Skills & Knowledge: Python, Python(OOPS) Basics, Microsoft Excel, RDBMS, MySQL, Tableau, PowerBI(Basics).
-- Experienced with json files, .xml file parsing.
+- 🌱 I’m currently learning React, Tailwind CSS 
+- 🔭 I’m someone who loves experimenting with data and building cool projects.
+- ⚡ Skills & Knowledge: VSTO Office Addin Developer, C#, .NET, WPF, Python, Microsoft Office Add-In Development, MongoDB, PostgreSQL, Tableau, PowerBI(Basics).
+- Also Experienced with json files, .xml file parsing.
 - I have some experience with Web Scraping using BeautifulSoup4, Selenium and have also worked on multiple EDA and Basic ETL Pipeline projects from scratch.
-- 📫 If you are looking for an experimentalist and a generalist on your team you can reach out to me: subhrajitguchait20@gmail.com
