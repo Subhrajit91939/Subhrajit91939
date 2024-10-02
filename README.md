@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning and mastering the MERN Stack (building projects with React, Tailwind CSS) 
 - 🔭 I’m someone who loves experimenting with data and building cool projects.
-- ⚡ Skills & Knowledge: I am a developer with experience of ~2 years in VSTO Office Add-in Developement, C#, .NET Core, WPF, Angular (TypeScript), MongoDB, PostgreSQL, and also Data Visualization using Tableau, PowerBI(Basics), have also worked on multiple EDA and Basic ETL Pipeline projects.
+- ⚡ Skills & Knowledge: I am a developer with experience of ~2 years in VSTO Office Add-in Developement, C#, .NET Core, WPF, Angular (TypeScript), MongoDB, PostgreSQL, Flutter, Dart and also Data Visualization using Tableau, PowerBI(Basics), have also worked on multiple EDA and Basic ETL Pipeline projects.
