@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 <h2>A Little About Me:</h2>
 
-- 🌱 I’m currently learning React, Tailwind CSS 
+- 🌱 I’m currently learning and mastering the MERN Stack (building projects with React, Tailwind CSS) 
 - 🔭 I’m someone who loves experimenting with data and building cool projects.
-- ⚡ Skills & Knowledge: VSTO Office Addin Developer, C#, .NET, WPF, Python, Microsoft Office Add-In Development, MongoDB, PostgreSQL, Tableau, PowerBI(Basics).
-- Also Experienced with json files, .xml file parsing.
-- I have some experience with Web Scraping using BeautifulSoup4, Selenium and have also worked on multiple EDA and Basic ETL Pipeline projects from scratch.
+- ⚡ Skills & Knowledge: I am a developer with experience of ~2 years in VSTO Office Add-in Developement, C#, .NET Core, WPF, Angular (TypeScript), MongoDB, PostgreSQL, and also Data Visualization using Tableau, PowerBI(Basics), have also worked on multiple EDA and Basic ETL Pipeline projects.
